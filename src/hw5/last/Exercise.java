@@ -35,6 +35,7 @@ public class Exercise {
         Scanner scanner = new Scanner(System.in);
         String exercise = scanner.nextLine();
         listOfExercises.add(exercise);
+        System.out.println("This exercise has created");
     }
 
     public void deleteExercise() {
