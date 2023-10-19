@@ -1,4 +1,4 @@
-package exercise3;
+package hw4.exercise1.exercise3;
 
 public class Drawing implements Shape{
     @Override

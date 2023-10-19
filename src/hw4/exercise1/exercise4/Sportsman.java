@@ -1,4 +1,4 @@
-package exercise4;
+package hw4.exercise1.exercise4;
 
 public class Sportsman {
     private String name;

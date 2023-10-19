@@ -1,4 +1,4 @@
-package exercise1;
+package hw4.exercise1;
 
 public class Rectangle implements Shape{
     private int a;

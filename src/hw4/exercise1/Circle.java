@@ -1,4 +1,4 @@
-package exercise1;
+package hw4.exercise1;
 
 public class Circle implements Shape{
     private int r;

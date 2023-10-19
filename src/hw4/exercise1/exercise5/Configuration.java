@@ -1,4 +1,4 @@
-package exercise5;
+package hw4.exercise1.exercise5;
 
 public class Configuration {
     public static String url;
