@@ -81,6 +81,7 @@ public class Exercise {
             if (number <= listOfExercises.size()) {
                 listOfCompletedExercises.add(listOfExercises.get(number));
                 listOfExercises.remove(listOfExercises.get(number));
+                System.out.println("You have competed this exercise");
             }
         } catch (IndexOutOfBoundsException e) {
             System.out.println("You don't have this exercise in your list");
