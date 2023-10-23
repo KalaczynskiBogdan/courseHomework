@@ -7,6 +7,6 @@ public class Security extends Employees {
 
     @Override
     public void makingHisJob() {
-        System.out.println("Security      staff are keeping order of the camp");
+        System.out.println("Security      staffchik are keeping order of the camp");
     }
 }
